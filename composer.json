@@ -1,6 +1,6 @@
 {
     "name": "spryker-feature/marketplace-merchant-product-offer-service-points",
-    "description": "Marketplace Merchant Product Offer Service Points [feature]",
+    "description": "Marketplace Merchant Portal Product Offer Service Points [feature]",
     "type": "metapackage",
     "license": "proprietary",
     "minimum-stability": "dev",
@@ -14,6 +14,6 @@
         }
     },
     "suggest": {
-        "spryker-feature/marketplace-product-offer": "Recommended feature dependency."
+        "spryker-feature/product-offer-service-points": "Recommended feature dependency."
     }
 }
